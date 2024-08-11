@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "domon",
+    "database": "db_koperasi",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
